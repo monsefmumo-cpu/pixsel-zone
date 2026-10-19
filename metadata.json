@@ -1,0 +1,6 @@
+{
+  "name": "PIXSEL SERVER - سيرفر ديسكورد الرسمي",
+  "description": "الموقع الرسمي لسيرفر ديسكورد Pixsel Server - أقوى بانلات الألعاب للكمبيوتر والأندرويد وiOS، مهام الأوتو كويست Auto Quest، سكريمات وبطولات فريق Apostado Team، وأحدث التوكنات.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
